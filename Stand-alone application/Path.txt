@@ -1,0 +1,2 @@
+Location of file in the myRIO: http://172.22.11.2/files/home/lvuser/natinst/bin/
+Path: http://172.22.11.2/files/
