@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Enviar mensajes a través de un canal de transmisión de red.url" Type="Document" URL="../Enviar mensajes a través de un canal de transmisión de red.url"/>
 		<Item Name="PC.vi" Type="VI" URL="../PC.vi"/>
+		<Item Name="Using the Right Networking Protocol - NI.url" Type="Document" URL="../Using the Right Networking Protocol - NI.url"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
