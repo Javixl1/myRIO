@@ -1,0 +1,19 @@
+﻿Architecture: windows_all
+CompatibilityVersion: 260001
+Depends: ni-labview-2021-runtime-engine-x86 (>= 21.1.2.49154-0+f2)
+Description: FPGA modify Project
+DisplayName: My Package
+Filename: fpga-modify-project_1.0.0-0_windows_all.nipkg
+Installed-Size: 390
+MD5sum: 07bafc5846b1196a4c4f0c326a7cdea5
+Maintainer: TECNIAPP <>
+Package: fpga-modify-project
+Plugin: file
+Priority: standard
+Recommends: ni-certificates
+SHA256: 07a8a98e98266149d58c62b39cfde60adb4793bca56f1efed3dca8c2f42b0f1f
+Section: Application Software
+Size: 143584
+UserVisible: yes
+Version: 1.0.0-0
+
